@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.comp3717.comp3717.MainActivity">
+
+    <Button
+        android:text="@string/liquorButtonTxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="67dp"
+        android:id="@+id/liquorButton"
+        android:onClick="loadLiquor" />
+
+    <Button
+        android:text="@string/mixerButtonTxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:id="@+id/mixerButton"
+        android:layout_below="@+id/liquorButton"
+        android:layout_alignLeft="@+id/liquorButton"
+        android:layout_alignStart="@+id/liquorButton"
+        android:onClick="loadMixers" />
+
+    <Button
+        android:text="@string/garnishButtonTxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="41dp"
+        android:id="@+id/garnishButton"
+        android:layout_below="@+id/mixerButton"
+        android:layout_centerHorizontal="true"
+        android:onClick="loadGarnishes" />
+
+    <Button
+        android:text="Show My Ingredients"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="38dp"
+        android:id="@+id/myIngredientsButton"
+        android:layout_below="@+id/garnishButton"
+        android:layout_centerHorizontal="true"
+        android:onClick="showMyIngredients" />
+
+    <Button
+        android:text="What Can I Make"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/findResultsButton"
+        android:layout_below="@+id/myIngredientsButton"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="29dp"
+        android:onClick="findResults" />
+</RelativeLayout>

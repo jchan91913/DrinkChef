@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Drink Chef</string>
+    <string name="liquorButtonTxt">Liquor</string>
+    <string name="mixerButtonTxt">Mixers</string>
+    <string name="garnishButtonTxt">Garnishes</string>
+    <string name="searchButtonTxt">Search</string>
+
+
+    <string name="gin_and_tonic">
+        You need 2 ounces gin, 4 ounces tonic water, 1 tablespoon lime juice. \n
+        \n
+        1. Place the ice cubes in a tall, narrow glass with the ice coming near the top. \n
+        2. Pour gin, tonic water, and lime juice over the ice. \n
+        3. Stir well with a long-necked spoon. Serve immediately.</string>
+    <string name="mojito">
+You need 1 teaspoon sugar, 10 leaves fresh mint, 1 1/2 ounces white rum, 3/4 ounce fresh lime juice, Club soda, 2 sprigs fresh mint, for garnish, 1 lime twist, for garnish.\n
+        \n
+1. Place sugar and mint leaves in a serving glass, and gently muddle just until the leaves release their oils. \n
+        2. Fill glass with ice. Add rum and lime juice. Stir to combine. \n
+        3. Top with club soda and add mint sprigs and lime twist for garnish.</string>
+    <string name="the_last_word">
+You need 3/4 ounce gin, 3/4 ounce fresh-squeezed lime juice, 3/4 ounce maraschino liqueur, 3/4 ounce green Chartreuse.\n
+\n
+        1. Combine ingredients in a cocktail shaker. \n
+        2. Fill with ice, and shake briskly for 10 seconds. \n
+        3. Strain into a chilled cocktail glass.</string>
+    <string name="tom_collins">
+You need 2 ounces gin, Juice of 1/2 a lemon, 1 teaspoon sugar, Chilled club soda.\n
+\n
+1. Add gin, lemon and sugar to a Collins glass and stir to dissolve sugar (you can instead use simple syrup and make the process easier). \n
+        2. Fill glass with large chunks of ice and top with chilled club soda. \n
+        3. Insert straw and do what comes natural.</string>
+    <string name="cosmopolitan">
+You need 1 1/2 ounces citrus-flavored vodka, 1/2 ounce triple sec, 1/2 ounce cranberry juice, 1/4 ounce lime juice, Orange twist, for garnish.\n
+\n
+1. Fill a cocktail shaker with ice. \n
+        2. Add vodka, triple sec, cranberry, and lime, and shake well. \n
+        3. Strain into a chilled cocktail glass. \n
+        4. Garnish with orange twist.</string>
+    <string name="whiskey_sour">
+You need 2 ounces whiskey, 1 ounce fresh-squeezed lemon juice, 1 teaspoon sugar, 1 egg white (optional—use if you’re feeling mildly adventurous, or need a drink with a little more gravitas).\n
+\n
+1. Pour ingredients into a cocktail shaker, fill with ice and shake for 10 seconds (if using the egg white, give it a little extra muscle and a little extra time). \n
+        2. Strain into a chilled cocktail glass, or into an ice-filled Old Fashioned glass. \n
+        3. Garnish with a cherry, a slice of orange, or everything or nothing at all.</string>
+    <string name="mint_julep">
+You need 2 to 3 ounces bourbon, 1 teaspoon sugar, 8 to 10 leaves fresh mint, mint sprigs, crushed ice.\n
+\n
+1. Place the sugar and water at the bottom of a julep cup or tall glass and stir until sugar is dissolved (or speed the process by using simple syrup). \n
+        2. Add the mint leaves and gently bruise with a wooden muddler or a wooden spoon. \n
+        3. Take care not to overwork the mint, but swab the sides of the glass with the mint\'s aromatic oils. \n
+        4. Half-fill the glass with crushed ice and add the bourbon, stirring to combine. \n
+        5. Fill the glass with crushed ice and stir until the outside of the glass frosts. \n
+        6. Add more crushed ice if needed to fill, and generously adorn the drink with sprigs of fresh mint. \n
+        7. Serve with a short straw, so the fragrance of the mint bouquet will greet the drinker with each sip.</string>
+    <string name="ramos_fizz">
+You need 2 ounces gin, 1 ounce cream, 1 egg white, 1/2 ounce lemon juice, 1/2 ounce lime juice, 2 teaspoons sugar, 2-3 drops orange flower water, 1-2 ounces of club soda.\n
+\n
+1. Combine everything except club soda in a cocktail shaker. \n
+        2. Tradition dictates that the drink be shaken very hard for at least one and preferably two full minutes with ice. \n
+        3. You can cheat by either whisking the mixture with a milk-frother or whisk (or tossing a spring from a Hawthorne strainer into the shaker and using that to whip the ingredients) until foamy, and then shaking with ice for a good 20 seconds, or you can buckle down and take the fully authentic ride, while working off the calories you’ll be taking in from the cream and sugar. \n
+        4. Strain into a chilled Collins glass and add an ounce or two of chilled club soda, to taste.</string>
+    <string name="martini">
+You need 2 ounces dry gin and 1 ounce dry vermouth. \n
+\n
+1. Combine ingredients in a mixing glass and fill with ice. \n
+        2. Stir well to chill and strain into a chilled cocktail glass.\n
+        3. Twist a piece of lemon peel over the drink and use as garnish, or, if you must, toss in an olive.</string>
+</resources>
